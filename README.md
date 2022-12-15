@@ -9,14 +9,14 @@
 ## Languages and Tools
 
 **`Programming Languages`**
-Java
-C
-Python
-Lisp
-SQL
+- Java
+- C
+- Python
+- Lisp
+- SQL
 
 **`Tools`**
-Git
-Visual Code Studio
-Eclipse IDE
-Oracle Developer
+- Git
+- Visual Code Studio
+- Eclipse IDE
+- Oracle Developer
