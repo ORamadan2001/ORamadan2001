@@ -1,16 +1,22 @@
-### Hi there 👋
+# Omar Ramadan
 
-<!--
-**ORamadan2001/ORamadan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+ - Student at George Mason University pursuing a BS in Computer Science.
+ - Passionate about software development and artificial intelligence.
+ - Looking for roles to acquire new skills and to grow as a individual developer and team member.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+**`Programming Languages`**
+Java
+C
+Python
+Lisp
+SQL
+
+**`Tools`**
+Git
+Visual Code Studio
+Eclipse IDE
+Oracle Developer
