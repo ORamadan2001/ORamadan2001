@@ -20,3 +20,4 @@
 - Visual Code Studio
 - Eclipse IDE
 - Oracle Developer
+- Jupyter Notebook
