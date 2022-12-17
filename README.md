@@ -14,6 +14,8 @@
 - Python
 - Lisp
 - SQL
+- HTML
+- MIPS/x86
 
 **`Tools`**
 - Git
